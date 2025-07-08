@@ -1,0 +1,1 @@
+ /Users/macbook/StudioProjects/business_card/.dart_tool/flutter_build/03cd864084afa779374277d950667ef0/native_assets.yaml: 
